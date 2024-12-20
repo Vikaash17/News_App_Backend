@@ -4,7 +4,7 @@
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/your-repo.git
+    git clone https://github.com/Vikaash17/News_App_Backend.git
     cd your-repo
     ```
 
